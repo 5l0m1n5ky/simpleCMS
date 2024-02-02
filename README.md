@@ -14,7 +14,7 @@ Niezalogowani użytkownicy mają dostęp do przeglądania treści portalu a w sz
 
 Wirtualny Konsultant to implementacja ChatBota odpowiadającego na pytania związane z danymi o firmie na podstawie rozpoznawania słów kluczowych. ChatBot korzysta z biblioteki <a href="https://botman.io/">BotMan</a> .
 
-Autentyfikacja administratora pozwala na przełączenie aplikacji w tryb edycji treści. Zalogowany użytkownik ma do dyspozycji:
+Autentyfikacja administratora pozwala na przełączenie aplikacji w tryb edycji treści (username: admin, password: admin). Zalogowany użytkownik ma do dyspozycji:
 - edycję widoku "Strona główna" - modyfikacja logo, nazwy firmy oraz filmu w tle
 - edycję widoku "O firmie" - modyfikacja opisu
 - edycję widoku "Jak do nas dotrzeć" - edycja danych firmy 
